@@ -39,6 +39,5 @@ public class FrontControllerV1 extends HttpServlet {
 
         controller.process(request, response);
 
-
     }
 }
